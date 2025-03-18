@@ -2,6 +2,11 @@
 
 This ist the `apt` Repository for the msm-edge packages, which can be installed on a Raspberry Pi 5.
 
+## Containing Packages
+
+- ge-chip-tool
+- msm-edge-wifi
+
 ## How it works
 
 Make the repo known to the Raspberry Pi 5.
@@ -15,6 +20,7 @@ Install the package
 ```bash
 # Install newest package
 sudo apt install msm-edge-wifi
+sudo apt install ge-chip-tool
 
 # Install a certain version of a package
 sudo apt install msm-edge-wifi=1.0.0
