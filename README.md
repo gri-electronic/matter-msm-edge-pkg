@@ -13,6 +13,7 @@ Make the repo known to the Raspberry Pi 5.
 
 ```bash
 echo "deb [arch=arm64 trusted=yes] https://gri-electronic.github.io/msm-edge-pkg stable main" | sudo tee /etc/apt/sources.list.d/msm-edge.list
+sudo apt update
 ```
 
 Install the package
