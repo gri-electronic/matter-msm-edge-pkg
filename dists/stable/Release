@@ -1,13 +1,9 @@
-Date: Wed, 19 Mar 2025 15:03:03 +0000
-MD5Sum:
- 6ff9d0a2dfa61c8e5cd78c0061a90e34               38 Release
- 1798d87694ba454e29d2211eaf7d1867              565 main/binary-arm64/Packages.gz
-SHA1:
- 6d76443d3e8ba6d5564f886708813f9390af21b8               38 Release
- bdfbe3a1189ecc8bcec433aa326bd2d692a6aa72              565 main/binary-arm64/Packages.gz
-SHA256:
- 321143e9714dc6cafaf5434559be0822b2472bed3261a10cb2e6a8b54248fe50               38 Release
- 829eb816f4466d1bf67aadcc32ba5fa817d70eed3d3fdec8603f724c21afd3c1              565 main/binary-arm64/Packages.gz
-SHA512:
- 991c55445d489b3caefd33de2ac61f966c6543a52f77ba60604b0f9ce3d100b5204e61fd2b9704288551d1cd2a3c95815f9809d94d6da5b20b3db6e67d1a10dc               38 Release
- a7e4c1b7585962992fda237bacb4d199b4dd584d6ac143927e8251bdd29d9a779a553efc9fe12315b4b2188d9edbaf4a0a4e2e91af96743afdcf046495b0e410              565 main/binary-arm64/Packages.gz
+Origin: Griesser Electronic AG
+Label: msm-edge-pkg
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: arm64
+Components: main
+Description: Griesser MSM Edge Package Repo
+Date: Tue, 19 Mar 2025 16:24:00 UTC
