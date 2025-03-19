@@ -1,0 +1,6 @@
+Origin: gri-electronic
+Label: msm-edge-pkg
+Suite: stable
+Codename: stable
+Architectures: arm64
+Components: main
