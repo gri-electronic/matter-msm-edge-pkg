@@ -1,0 +1,53 @@
+Package: ge-chip-tool
+Version: 1.0
+Architecture: arm64
+Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
+Depends: bluez, avahi-daemon, libavahi-client3, libavahi-common3
+Filename: pool/main/m/ge-chip-tool/ge-chip-tool_1.0_arm64.deb
+Size: 28820968
+MD5sum: 068a07b64c6b623e44e1c0b1cfaceaac
+SHA1: d1d40144dab5e255a8babd01786f73436f93a802
+SHA256: 31647a79e8614115bab1b120de94616c73f7cb807894a4303e6191b339c52c37
+Section: utils
+Priority: optional
+Description: A package containing the necessary binaries to run ota updates for Griesser IoT Actuators.
+
+Package: msm-edge-wifi
+Version: 0.3
+Architecture: arm64
+Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
+Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.3_arm64.deb
+Size: 31261034
+MD5sum: 5690f3149179911d4036739e4c41c6ec
+SHA1: e4383ec892f754cadea69c83506dd5a8563f4a42
+SHA256: fac7341d91988ff8b3bf231481c9b30c2e61e5fd4f98c3a279d5af4280296cb8
+Section: base
+Priority: optional
+Description: MSM-Edge Wifi Api
+
+Package: msm-edge-wifi
+Version: 0.4
+Architecture: arm64
+Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
+Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.4_arm64.deb
+Size: 31261022
+MD5sum: 21695b0d8d84116b277a621b54705a0a
+SHA1: 46d91abe18a73b36f58766b8fdd7ff1bd08b919f
+SHA256: 5aaf393ea94c5851abd5b5fd2e3121b32f5cf8f9d5f7a6010ebb2063ff461ebb
+Section: base
+Priority: optional
+Description: MSM-Edge Wifi Api
+
+Package: msm-edge-wifi
+Version: 0.5
+Architecture: arm64
+Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
+Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.5_arm64.deb
+Size: 31261008
+MD5sum: 25e95dd93ed0432f89e4973b19542992
+SHA1: b962c00bc71546ac460d1259b2cab661d2cdecaf
+SHA256: c2f7105f2c66df6d390b490c18c4ef1a3c6fce6f108959ec4980e610fbc321cb
+Section: base
+Priority: optional
+Description: MSM-Edge Wifi Api
+
