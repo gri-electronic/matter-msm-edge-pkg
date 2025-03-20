@@ -51,3 +51,16 @@ Section: base
 Priority: optional
 Description: MSM-Edge Wifi Api
 
+Package: msm-edge-wifi
+Version: 0.6
+Architecture: arm64
+Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
+Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.6_arm64.deb
+Size: 31261096
+MD5sum: 89310c82bfc61e1cb7be6311d3118b1a
+SHA1: 47f54bfc797da2971a85a851f7b7e58e192fbee7
+SHA256: 035a128637072deae1155e1ec13f7f4ea11c4019c83e37aae78bbc99f4590324
+Section: base
+Priority: optional
+Description: MSM-Edge Wifi Api
+
