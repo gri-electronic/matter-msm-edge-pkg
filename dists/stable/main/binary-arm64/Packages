@@ -12,6 +12,20 @@ Section: utils
 Priority: optional
 Description: A package containing the necessary binaries to run ota updates for Griesser IoT Actuators.
 
+Package: ge-ota-api
+Version: 1.0
+Architecture: arm64
+Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
+Depends: aspnetcore-runtime-8.0, iw
+Filename: pool/main/m/ge-ota-api/ge-ota-api_1.0_arm64.deb
+Size: 20369086
+MD5sum: ea5e642d6b391f14b27ba994b4cd31b2
+SHA1: 696eeac1d5eee5452f955610cfea50875ed484ed
+SHA256: 1f6bf26861d4e51ab6170a5f2e260f99e2180aa3c4ed032657f2bf30ceda9479
+Section: utils
+Priority: optional
+Description: A package containing the api minimal api used to the ota update provider application on msm-edge devices.
+
 Package: msm-edge-wifi
 Version: 0.3
 Architecture: arm64
