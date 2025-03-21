@@ -31,11 +31,11 @@ Version: 1.0
 Architecture: arm64
 Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
 Depends: aspnetcore-runtime-8.0, wireless-tools
-Filename: pool/main/m/ge-msm-edge-widi-api/ge-msm-edge-wifi-api_1_0_arm64.deb
-Size: 655596
-MD5sum: 5ea1a8c20e9eeafca6d1752fbaa29172
-SHA1: 39e4a4a8d059774d85509a668bb55872f561515b
-SHA256: 6228f4219b463741935368f240ec9d4572df9e9fb2ed4ead9eb9a5f0c1711795
+Filename: pool/main/m/ge-msm-edge-wifi-api/ge-msm-edge-wifi-api_1_0_arm64.deb
+Size: 655518
+MD5sum: 3adc4fda053fb59caf2018f8ce619fb2
+SHA1: fb823609da467a541a0f6f373bba4edc86626f53
+SHA256: 5f7bf715770a4be1ca3e61aade2188a3bf60ff7dfdddc8f4ac1b5a149b3039ee
 Section: base
 Priority: optional
 Description: A package containing a minimal api used to configure Wi-Fi on MSM Edge devices.
