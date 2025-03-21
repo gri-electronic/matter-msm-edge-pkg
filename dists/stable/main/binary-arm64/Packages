@@ -12,19 +12,33 @@ Section: utils
 Priority: optional
 Description: A package containing the necessary binaries to run ota updates for Griesser IoT Actuators.
 
-Package: ge-ota-api
+Package: ge-msm-edge-ota-api
 Version: 1.0
 Architecture: arm64
 Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
-Depends: aspnetcore-runtime-8.0, iw
-Filename: pool/main/m/ge-ota-api/ge-ota-api_1.0_arm64.deb
-Size: 20369086
-MD5sum: ea5e642d6b391f14b27ba994b4cd31b2
-SHA1: 696eeac1d5eee5452f955610cfea50875ed484ed
-SHA256: 1f6bf26861d4e51ab6170a5f2e260f99e2180aa3c4ed032657f2bf30ceda9479
+Depends: aspnetcore-runtime-8.0
+Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1_0_arm64.deb
+Size: 20368976
+MD5sum: 567d860ba9d131b8a80f584bd02a2fad
+SHA1: 8a8c9d4906f301604a83102cb0985032e827669a
+SHA256: 203fdf5ec47c052fe2e330b1891d6ea4b61991f38995b8d6fb5eeda4b8ae0806
 Section: utils
 Priority: optional
-Description: A package containing the api minimal api used to the ota update provider application on msm-edge devices.
+Description: A package containing a minimal api used to start the ota update provider application on MSM Edge devices.
+
+Package: ge-msm-edge-wifi-api
+Version: 1.0
+Architecture: arm64
+Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
+Depends: aspnetcore-runtime-8.0, wireless-tools
+Filename: pool/main/m/ge-msm-edge-widi-api/ge-msm-edge-wifi-api_1_0_arm64.deb
+Size: 655596
+MD5sum: 5ea1a8c20e9eeafca6d1752fbaa29172
+SHA1: 39e4a4a8d059774d85509a668bb55872f561515b
+SHA256: 6228f4219b463741935368f240ec9d4572df9e9fb2ed4ead9eb9a5f0c1711795
+Section: base
+Priority: optional
+Description: A package containing a minimal api used to configure Wi-Fi on MSM Edge devices.
 
 Package: msm-edge-wifi
 Version: 0.3

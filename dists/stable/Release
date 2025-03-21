@@ -2,13 +2,13 @@ Origin: Griesser Electronic AG
 Label: msm-edge-pkg
 Suite: stable
 Codename: stable
-Date: Thu, 20 Mar 2025 13:42:10 UTC
+Date: Fri, 21 Mar 2025 10:41:45 UTC
 Architectures: arm64
 Components: main
 Description: MSM Edge Package Repository
 
 MD5Sum:
- a557210ff2bf25d6b21c3cf24ac5e93a 1063 main/binary-arm64/Packages.gz
+ 5a75032d9978d9d08e9507ff3cabe0f3 1208 main/binary-arm64/Packages.gz
 
 SHA256:
- d859a55eb9def419da0ddd91a018b20ac974503f8628a19619f1b7604bea2656 1063 main/binary-arm64/Packages.gz
+ ea14a1f4640ebd50017dfd55b2ddf151c3a740f4a6dc7e17ffbc00143967c1b6 1208 main/binary-arm64/Packages.gz
