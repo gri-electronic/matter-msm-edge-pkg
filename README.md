@@ -1,4 +1,4 @@
-# APT-Repository: msm-edge-pkg
+# APT-Repository: matter-msm-edge-pkg
 
 This ist the `apt` Repository for the msm-edge packages, which can be installed on a Raspberry Pi 5.
 
