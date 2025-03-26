@@ -54,6 +54,20 @@ Section: utils
 Priority: optional
 Description: A package containing a minimal api used to start the ota update provider application on MSM Edge devices.
 
+Package: ge-msm-edge-ota-api
+Version: 1.2.0
+Architecture: arm64
+Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
+Depends: aspnetcore-runtime-8.0
+Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1_2_arm64.deb
+Size: 20381336
+MD5sum: 6986ca479924baa5b83a905b9c03bf2c
+SHA1: d882bba9e46e0cd8a86047b93ededfec093209ce
+SHA256: 289153fb890d265f4c2c2108ed3e06e1ccc1b868ef07649e7e14cf83a688d438
+Section: utils
+Priority: optional
+Description: A package containing a minimal api used to start the ota update provider application on MSM Edge devices.
+
 Package: ge-msm-edge-wifi-api
 Version: 1.0
 Architecture: arm64
