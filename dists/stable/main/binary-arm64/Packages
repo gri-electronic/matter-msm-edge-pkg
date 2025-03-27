@@ -17,7 +17,7 @@ Version: 1.0
 Architecture: arm64
 Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
 Depends: aspnetcore-runtime-8.0
-Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1_0_arm64.deb
+Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1.0_arm64.deb
 Size: 20368976
 MD5sum: 567d860ba9d131b8a80f584bd02a2fad
 SHA1: 8a8c9d4906f301604a83102cb0985032e827669a
@@ -31,7 +31,7 @@ Version: 1.1.0
 Architecture: arm64
 Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
 Depends: aspnetcore-runtime-8.0
-Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1_1_arm64.deb
+Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1.1_arm64.deb
 Size: 631082
 MD5sum: be6947edea320aaaf2d74bdb8ab74501
 SHA1: 69325f18a6dbbd9ea06f4f894e577b71af7e4592
@@ -45,7 +45,7 @@ Version: 1.1.1
 Architecture: arm64
 Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
 Depends: aspnetcore-runtime-8.0
-Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1_1_1_arm64.deb
+Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1.1.1_arm64.deb
 Size: 20380878
 MD5sum: 3865718cd241e5c7f5eef0f5a4947fd8
 SHA1: 80acd0840371d6da04bcfc2bd1f53ba2508b98da
@@ -59,7 +59,7 @@ Version: 1.2.0
 Architecture: arm64
 Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
 Depends: aspnetcore-runtime-8.0
-Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1_2_arm64.deb
+Filename: pool/main/m/ge-msm-edge-ota-api/ge-msm-edge-ota-api_1.2_arm64.deb
 Size: 20381336
 MD5sum: 6986ca479924baa5b83a905b9c03bf2c
 SHA1: d882bba9e46e0cd8a86047b93ededfec093209ce
@@ -73,7 +73,7 @@ Version: 1.0
 Architecture: arm64
 Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
 Depends: aspnetcore-runtime-8.0, wireless-tools
-Filename: pool/main/m/ge-msm-edge-wifi-api/ge-msm-edge-wifi-api_1_0_arm64.deb
+Filename: pool/main/m/ge-msm-edge-wifi-api/ge-msm-edge-wifi-api_1.0_arm64.deb
 Size: 656110
 MD5sum: 292c117267f5def6339c0b7c859a903d
 SHA1: 96b94950bc1e23a56d9400dd0f14849b337544e4
