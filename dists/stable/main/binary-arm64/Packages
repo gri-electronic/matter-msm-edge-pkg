@@ -82,55 +82,17 @@ Section: base
 Priority: optional
 Description: A package containing a minimal api used to configure Wi-Fi on MSM Edge devices.
 
-Package: msm-edge-wifi
-Version: 0.3
+Package: ge-msm-edge-wifi-api
+Version: 1.1.0
 Architecture: arm64
 Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
-Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.3_arm64.deb
-Size: 31261034
-MD5sum: 5690f3149179911d4036739e4c41c6ec
-SHA1: e4383ec892f754cadea69c83506dd5a8563f4a42
-SHA256: fac7341d91988ff8b3bf231481c9b30c2e61e5fd4f98c3a279d5af4280296cb8
+Depends: aspnetcore-runtime-8.0, wireless-tools
+Filename: pool/main/m/ge-msm-edge-wifi-api/ge-msm-edge-wifi-api_1.1.0_arm64.deb
+Size: 658008
+MD5sum: ea064158e81c1f0ab781a946760de468
+SHA1: 564956556a9c4a80835af6cc33e9d30ba656a5d7
+SHA256: 648b18fdf7fcae717b98e3ab7dc00c9d6373a0cd48e39f2a8f03d294abcd547a
 Section: base
 Priority: optional
-Description: MSM-Edge Wifi Api
-
-Package: msm-edge-wifi
-Version: 0.4
-Architecture: arm64
-Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
-Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.4_arm64.deb
-Size: 31261022
-MD5sum: 21695b0d8d84116b277a621b54705a0a
-SHA1: 46d91abe18a73b36f58766b8fdd7ff1bd08b919f
-SHA256: 5aaf393ea94c5851abd5b5fd2e3121b32f5cf8f9d5f7a6010ebb2063ff461ebb
-Section: base
-Priority: optional
-Description: MSM-Edge Wifi Api
-
-Package: msm-edge-wifi
-Version: 0.5
-Architecture: arm64
-Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
-Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.5_arm64.deb
-Size: 31261008
-MD5sum: 25e95dd93ed0432f89e4973b19542992
-SHA1: b962c00bc71546ac460d1259b2cab661d2cdecaf
-SHA256: c2f7105f2c66df6d390b490c18c4ef1a3c6fce6f108959ec4980e610fbc321cb
-Section: base
-Priority: optional
-Description: MSM-Edge Wifi Api
-
-Package: msm-edge-wifi
-Version: 0.6
-Architecture: arm64
-Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
-Filename: pool/main/m/msm-edge-wifi/msm-edge-wifi_0.6_arm64.deb
-Size: 31261096
-MD5sum: 89310c82bfc61e1cb7be6311d3118b1a
-SHA1: 47f54bfc797da2971a85a851f7b7e58e192fbee7
-SHA256: 035a128637072deae1155e1ec13f7f4ea11c4019c83e37aae78bbc99f4590324
-Section: base
-Priority: optional
-Description: MSM-Edge Wifi Api
+Description: A package containing a minimal api used to configure Wi-Fi on MSM Edge devices.
 
