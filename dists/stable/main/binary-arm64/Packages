@@ -73,7 +73,7 @@ Version: 1.0
 Architecture: arm64
 Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
 Depends: aspnetcore-runtime-8.0, wireless-tools
-Filename: pool/main/m/ge-msm-edge-wifi-api/ge-msm-edge-wifi-api_1.0_arm64.deb
+Filename: pool/main/m/ge-msm-edge-wifi-api/ge-msm-edge-wifi-api_1.0.0_arm64.deb
 Size: 656110
 MD5sum: 292c117267f5def6339c0b7c859a903d
 SHA1: 96b94950bc1e23a56d9400dd0f14849b337544e4
@@ -92,6 +92,20 @@ Size: 658008
 MD5sum: ea064158e81c1f0ab781a946760de468
 SHA1: 564956556a9c4a80835af6cc33e9d30ba656a5d7
 SHA256: 648b18fdf7fcae717b98e3ab7dc00c9d6373a0cd48e39f2a8f03d294abcd547a
+Section: base
+Priority: optional
+Description: A package containing a minimal api used to configure Wi-Fi on MSM Edge devices.
+
+Package: ge-msm-edge-wifi-api
+Version: 1.2.0
+Architecture: arm64
+Maintainer: Griesser Electronic <geentwicklung@griesser.ch>
+Depends: aspnetcore-runtime-8.0, wireless-tools
+Filename: pool/main/m/ge-msm-edge-wifi-api/ge-msm-edge-wifi-api_1.2.0_arm64.deb
+Size: 657942
+MD5sum: 18a682d568a812701b9f8b05bc6d5e88
+SHA1: 77fbba5c49d596da20c47cb42cd85fbca90b0004
+SHA256: 4aa4a725cf9a6266feefac0de06cc62eff0f4bae3f1bb392bb09d68d97e8a7e7
 Section: base
 Priority: optional
 Description: A package containing a minimal api used to configure Wi-Fi on MSM Edge devices.
