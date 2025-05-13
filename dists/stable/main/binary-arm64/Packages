@@ -12,6 +12,20 @@ Section: utils
 Priority: optional
 Description: A package containing the necessary binaries to run ota updates for Griesser IoT Actuators.
 
+Package: ge-chip-tool
+Version: 1.0.1
+Architecture: arm64
+Maintainer: Griesser Electronics AG <geentwicklung@griesser.ch>
+Depends: bluez, avahi-daemon, libavahi-client3, libavahi-common3
+Filename: pool/main/m/ge-chip-tool/ge-chip-tool_1.0.1_arm64.deb
+Size: 28826186
+MD5sum: d3f144cf6e5b4d0a4575fed9c480d542
+SHA1: 57a8ebc87e5003298ffd7e65240c4b1d3964d1dd
+SHA256: a81cbcac0eb8f19412ac3fbc21684b11d1a076b05bbb04f81444902b3f0c516d
+Section: utils
+Priority: optional
+Description: A package containing the necessary binaries to run chip tool commands over a websocket.
+
 Package: ge-msm-edge-ota-api
 Version: 1.0
 Architecture: arm64
